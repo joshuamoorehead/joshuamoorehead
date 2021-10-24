@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @joshuamoorehead
-- 👀 I’m interested in lifting weights, painting, and finance
-- 🌱 I’m currently studying computer engineering at UoSC. 
-- 💞️ I’m looking to collaborate on
+- 👀 I’m interested in computers, fitness, art, and personal finance!
+- 🌱 I’m currently studying computer engineering at UoSC.
 - 📫 How to reach me: moorehj@email.sc.edu
 
 <!---
