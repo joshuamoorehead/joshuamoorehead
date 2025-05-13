@@ -1,5 +1,5 @@
 - Hi, I’m @joshuamoorehead
-- I’m currently studying computer engineering at UoSC.
+- I’m an incoming Masters ECE student at Carnegie Mellon University.
 - How to reach me: moorehj@email.sc.edu
 
 <!---
