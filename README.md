@@ -1,6 +1,6 @@
 - Hi, I’m @joshuamoorehead
 - I’m an incoming Masters ECE student at Carnegie Mellon University.
-- How to reach me: moorehj@email.sc.edu
+- How to reach me: josh.moorehead@outlook.com
 
 <!---
 joshuamoorehead/joshuamoorehead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
