@@ -1,5 +1,5 @@
 - Hi, I’m @joshuamoorehead
-- I’m an incoming Masters ECE student at Carnegie Mellon University.
+- I’m a Masters ECE student at Carnegie Mellon University.
 - How to reach me: josh.moorehead@outlook.com
 
 <!---
